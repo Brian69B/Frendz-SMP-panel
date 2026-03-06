@@ -1,4 +1,5 @@
 [phases.setup]
+python.version = "3.11"
 nixPkgs = ["python311"]
 
 [phases.install]
